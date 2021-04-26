@@ -15,8 +15,6 @@ tm_clean <- function(corpus) {
 
 # Función para limpiar el contenido de un texto.
 text_clean <- function(text) {
-    special_chars <- "áéíóú"
-    special_chars_replace <- "aeiou"
     # Se convierte todo el texto a minúsculas
     new_text <- tolower(text)
     # Eliminación de páginas web (palabras que empiezan por "http.")
@@ -27,8 +25,8 @@ text_clean <- function(text) {
     new_text <- str_replace_all(new_text,"[[:digit:]]", " ")
     # Eliminación de espacios en blanco múltiples
     new_text <- str_replace_all(new_text,"[\\s]+", " ")
-    # Reemplazo de carecteres especiales
-    new_text <- chartr(special_chars,special_chars_replace,new_text)
+    # Reemplazo de tildes
+    new_text <- chartr("áéíóú","aeiou",new_text)
     return(new_text)
 }
 
