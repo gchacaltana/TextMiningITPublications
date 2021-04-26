@@ -1,0 +1,122 @@
+¿Qué es la gobernanza de datos?
+Un marco de las mejores prácticas para la gestión de los activos de datos.
+La gobernanza de datos es un sistema para definir quién, dentro de una organización, tiene autoridad y control sobre los activos de datos y cómo se pueden utilizar esos activos de datos. Abarca las personas, los procesos y las tecnologías necesarias para administrar y proteger los activos de datos.
+
+El Data Governance Institute lo define como "un sistema de derechos de decisión y responsabilidades para los procesos relacionados con la información, ejecutado de acuerdo con modelos acordados que describen quién puede tomar qué acciones con qué información, y cuándo, bajo qué circunstancias, usando qué métodos”.
+
+La Data Management Association (DAMA) International lo define como la "planificación, supervisión y control sobre la gestión de datos y el uso de datos y fuentes relacionadas con los datos”.
+
+Gobernanza de los datos versus gestión de los datos
+La gobernanza de los datos es solo una parte de la disciplina general de la gestión de datos, aunque es importante. Mientras que la gobernanza de datos se trata de los roles, responsabilidades y procesos para garantizar la responsabilidad y la propiedad de los activos de datos, DAMA define la gestión de datos como "un término general que describe los procesos utilizados para planificar, especificar, habilitar, crear, adquirir, mantener, usar, archivar, recuperar, controlar y depurar los datos”.
+
+Si bien la gestión de los datos se ha convertido en un término común para la disciplina, a veces se la denomina gestión de los recursos de datos o gestión de la información empresarial (EIM). Gartner describe la EIM como "una disciplina integradora destinada a estructurar, describir y gobernar los activos de información a través de los límites organizativos y técnicos para mejorar la eficiencia, promover la transparencia y permitir el conocimiento empresarial”.
+
+Marco de gobernanza de los datos
+La gobernanza de los datos se puede considerar mejor como una función que le brinda soporte a la estrategia general de gestión de los datos de una organización. Dicho marco proporciona a su organización un enfoque holístico para recopilar, administrar, proteger y almacenar los datos. Para ayudar a comprender lo que debe cubrir un marco, DAMA concibe la gestión de los datos como una rueda, en donde la gobernanza de los datos se encuentra en el centro, desde el que irradian las siguientes 10 áreas de conocimiento dentro de la gestión de los datos:
+
+Arquitectura de los datos: La estructura general de los datos y los recursos relacionados con los datos como parte integral de la arquitectura empresarial.
+Modelado y diseño de los datos: Análisis, diseño, construcción, pruebas y mantenimiento.
+Almacenamiento de los datos y operaciones: Implementación y administración de almacenamiento de activos de datos físicos estructurados.
+Seguridad de los datos: Garantizar la privacidad, la confidencialidad y el acceso adecuado.
+Integración e interoperabilidad de los datos: Adquisición, extracción, transformación, movimiento, entrega, replicación, federación, virtualización y soporte operativo.
+Documentos y contenido: Almacenar, proteger, indexar y permitir el acceso a los datos que se encuentran en fuentes no estructuradas, y hacer que estos datos estén disponibles para la integración e interoperabilidad con datos estructurados.
+Datos maestros y de referencia: Gestión de los datos compartidos para reducir la redundancia y garantizar una mejor calidad de los datos a través de la definición estandarizada y el uso de valores de los datos.
+Almacenamiento de los datos e inteligencia de negocios (BI): Gestión del procesamiento de los datos analíticos y habilitación del acceso a los datos que apoyan la toma de decisiones para los informes y análisis.
+Metadatos: Recopilar, categorizar, mantener, integrar, controlar, administrar y entregar los metadatos.
+Calidad de los datos: Definir, monitorear, mantener la integridad de los datos y mejorar la calidad de los datos.
+Al establecer una estrategia, se deben considerar cada una de las facetas anteriores de la recopilación, gestión, archivo y uso de datos.
+El Business Application Research Center (BARC) advierte que no es una "iniciativa tipo Big Bang”. Como programa continuo y altamente complejo, la gobernanza de datos corre el riesgo de que los participantes pierdan confianza e interés con el tiempo. Para contrarrestar eso, BARC recomienda comenzar con un proyecto prototipo manejable o específico de la aplicación y luego expandirse en toda la empresa en función de las lecciones aprendidas.
+
+BARC recomienda los siguientes pasos para la implementación:
+
+Definir objetivos y comprender los beneficios.
+Analizar el estado actual y el análisis delta.
+Derivar una hoja de ruta.
+Convencer a las partes interesadas y el proyecto de presupuesto.
+Desarrollar y planificar el programa de gobernanza de datos.
+Implementar el programa de gobernanza de datos.
+Supervisar y controlar.
+
+Objetivos de la gobernanza de datos
+
+El objetivo es establecer los métodos, el conjunto de responsabilidades y los procesos para estandarizar, integrar, proteger y almacenar los datos corporativos. Según BARC, los objetivos clave de una organización deberían ser:
+
+Minimizar riesgos.
+Establecer reglas internas para el uso de los datos.
+Implementar requerimientos de cumplimiento.
+Mejorar la comunicación interna y externa.
+Incrementar el valor de los datos.
+Facilitar la administración de los puntos anteriores.
+Reducir costos.
+Ayudar a asegurar la existencia continua de la empresa a través de la gestión y optimización de los riesgos.
+
+BARC señala que dichos programas siempre abarcan los niveles estratégicos, tácticos y operativos en las empresas, y que deben tratarse como procesos continuos e iterativos.
+
+Beneficios de la gobernanza de datos
+
+La mayoría de las empresas ya tienen alguna forma de gobernanza para las aplicaciones, unidades de negocio o funciones individuales, incluso si los procesos y responsabilidades son informales. Como práctica, se trata de establecer un control formal y sistemático sobre estos procesos y responsabilidades. Hacerlo puede ayudar a las empresas a seguir respondiendo, especialmente a medida que crecen hasta un tamaño en el que ya no es eficiente que las personas realicen tareas multifuncionales. Varios de los beneficios generales de la gestión de datos solo se pueden obtener después de que la empresa haya establecido una gobernanza de los datos sistemática. Algunos de estos beneficios incluyen:
+
+Un mejor y más completo soporte a las decisiones, derivado de datos consistentes y uniformes en toda la organización.
+Reglas claras para cambiar los procesos y los datos que ayudan a la empresa y a TI a ser más ágiles e incrementar su escala.
+Reducción de los costos en las otras áreas de la gestión de los datos mediante la provisión de mecanismos de control central.
+Mayor eficiencia a través de la capacidad de reutilizar procesos y datos.
+Mayor confianza en la calidad de los datos y la documentación de los procesos de datos.
+Mejora del cumplimiento de las regulaciones de datos.
+
+Principios de la gobernanza de los datos
+
+Según el Data Governance Institute, ocho principios están en el centro de todos los programas exitosos de administración y administración de datos:
+
+Todos los participantes deben tener integridad en sus tratos entre ellos. Deben ser veraces y comunicativos al discutir los impulsores, las limitaciones, las opciones y los impactos de las decisiones relacionadas con los datos.
+Los procesos de administración y supervisión de los datos requieren transparencia. Debe quedar claro para todos los participantes y auditores cómo y cuándo se introdujeron en los procesos las decisiones y los controles relacionados con los datos.
+Las decisiones, los procesos y los controles relacionados con los datos sujetos a la gobernanza de los datos deben ser auditables. Deben ir acompañadas de documentación para respaldar los requisitos de auditoría operativos y basados en el cumplimiento.
+Deben definir quién es responsable de las decisiones, los procesos y los controles interfuncionales relacionados con los datos.
+Debe definir quién es responsable de las actividades de administración que son responsabilidad de los contribuyentes individuales y los grupos de administradores de datos.
+Los programas deben definir las responsabilidades de una manera que se introduzcan controles y contrapesos entre los equipos de negocios y tecnología, y entre quienes crean/recopilan información, quienes la administran, quienes la usan y quienes introducen estándares y requisitos de cumplimiento.
+El programa debe introducir y brindar soporte a la estandarización de los datos empresariales.
+Los programas deben bridar soporte a las actividades de gestión del cambio proactivas y reactivas para los valores de los datos de referencia y la estructura/uso de los datos maestros y los metadatos.
+
+Roles de la gobernanza de los datos
+
+Cada empresa compone su gobernanza de los datos de manera diferente, pero existen algunos puntos en común.
+
+Comité de dirección: Los programas de gobernanza abarcan toda la empresa, por lo general comienzan con un comité de dirección compuesto por la alta dirección, a menudo personas de la alta gerencia o vicepresidentes responsables de las líneas de negocio. Morgan Templar, autor de Get Governed: Building World Class Data Governance Programs, afirma que las responsabilidades de los miembros del comité directivo incluyen establecer la estrategia general de la gobernanza con resultados específicos, defendiendo el trabajo de los administradores de datos y responsabilizando a la organización de gobernanza de los plazos y los resultados.
+
+Propietario de datos: Templar afirma que los propietarios de datos son personas responsables de garantizar que la información, dentro de un campo de datos específico, se gobierne en todos los sistemas y líneas de negocio. Por lo general, son miembros del comité directivo, aunque es posible que no sean miembros con derecho a voto. Los propietarios de datos son responsables de:
+
+Aprobar glosarios de datos y otras definiciones de datos.
+Garantizar la precisión de la información en toda la empresa.
+Dirigir actividades sobre la calidad de los datos.
+Revisar y aprobar enfoques, resultados y actividades de gestión de los datos maestros.
+Trabajar con otros propietarios de datos para resolver problemas de datos.
+Realizar una revisión de segundo nivel para los problemas identificados por los administradores de datos.
+Proporcionar información al comité directivo sobre las soluciones de software, políticas o requisitos reglamentarios de su campo de datos.
+Administradores de datos: Los administradores de datos son responsables de la gestión del día a día de los datos. Son expertos en la materia (SMEs, por sus siglas en inglés) que entienden y comunican el significado y el uso de la información, afirma Templar, y trabajan con otros administradores de datos, en toda la organización, como el órgano de gobernanza para la mayoría de las decisiones de datos. Los administradores de datos son responsables de:
+
+Ser SMEs para su campo de datos.
+Identificar problemas de datos y trabajar con otros administradores de datos para resolverlos.
+Actuar como miembro del consejo de administración de datos.
+Proponer, discutir y votar sobre políticas de datos y actividades del comité.
+Informar al propietario de los datos y a otras partes interesadas dentro de un campo de datos.
+Trabajar de manera transversal en todas las líneas de negocio para garantizar que los datos de su campo se gestionen y comprendan.
+
+Herramientas para la gobernanza de datos
+
+La gobernanza de datos es un programa continuo en lugar de una solución tecnológica, pero existen herramientas que pueden ayudar a bridarle soporte a ese programa. La herramienta que se adapte a su empresa dependerá de sus necesidades, volumen de datos y presupuesto. Según IT Central Station, algunas de las soluciones más populares incluyen:
+
+Collibra Governance: Collibra es una solución a nivel de toda la empresa que automatiza muchas tareas de gobernanza y administración. Incluye un administrador de políticas, servicio de asistencia de datos, diccionario de datos y glosario empresarial.
+SAS Data Management: Construida sobre la plataforma SAS, SAS Data Management proporciona una GUI basada en roles para la gestión de procesos e incluye un glosario empresarial integrado, SAS y gestión de metadatos de terceros y visualización de linaje.
+erwin Data Intelligence (DI) para la gobernanza de datos: erwin DI combina el catálogo de datos y las capacidades de alfabetización de datos para proporcionar conocimiento y acceso a los activos de datos disponibles. Proporciona orientación sobre el uso de esos activos de datos y garantiza que se sigan las políticas de datos y las mejores prácticas.
+Informatica Axon: Informatica Axon es un centro de recopilación y un mercado de datos para programas de soporte. Las características clave incluyen un glosario empresarial colaborativo, la capacidad de visualizar el linaje de datos y generar mediciones de calidad de datos basadas en definiciones empresariales.
+SAP Data Hub: SAP Data Hub es una solución de orquestación de datos destinada a ayudarlo a descubrir, refinar, enriquecer y controlar todos los tipos, variedades y volúmenes de datos en su panorama de datos. Ayuda a las organizaciones a establecer configuraciones de seguridad y políticas de control de identidad para usuarios, grupos y roles, y a optimizar las mejores prácticas y procesos para la administración de políticas y el registro de seguridad.
+Alation: Alation es un catálogo de datos empresariales que indexa automáticamente los datos por fuente. Una de sus capacidades clave, TrustCheck, proporciona "medidas de seguridad” en tiempo real para los flujos de trabajo. Destinado específicamente a bridar soporte a la analítica de autoservicio, TrustCheck adjunta pautas y reglas a los activos de datos.
+Varonis Data Governance Suite: La solución de Varonis automatiza las tareas de administración y protección de datos aprovechando un marco de metadatos capaz de incrementar en escala, el cual permite a las organizaciones administrar el acceso a los datos, ver los registros de auditoría de cada archivo y evento de correo electrónico, identificar la propiedad de los datos en diferentes unidades de negocios, así como encontrar y clasificar información, datos y documentos confidenciales.
+IBM Data Governance: IBM Data Governance aprovecha el aprendizaje automático para recopilar y seleccionar activos de datos. El catálogo de datos integrado ayuda a las empresas a encontrar, seleccionar, analizar, preparar y compartir datos.
+Certificaciones de gobernanza de datos
+La gobernanza de datos es un sistema, pero existen algunas certificaciones que pueden ayudar a su organización a obtener una ventaja, incluidas las siguientes:
+
+DAMA Certified Data Management Professional (CDMP)
+Data Governance and Stewardship Professional (DGSP)
+edX Enterprise Data Management
+SAP Certified Application Associate - SAP Master Data Governance
+Enlace: https://cioperu.pe/articulo/32080/que-es-la-gobernanza-de-datos/
